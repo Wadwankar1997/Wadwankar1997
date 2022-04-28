@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Wadwankar1997
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi I'm am Aishwarya wadwankar
+- 👀 i'm intrested in SOFTWARE DEVELOPMENT
+- 🌱 I’m currently learning in PYTHON & JAVA ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-Wadwankar1997/Wadwankar1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+aishwadwankar@gmail.com.
+https://www.linkedin.com/in
+/aishwarya-wadwankar-693a851aa
 --->
